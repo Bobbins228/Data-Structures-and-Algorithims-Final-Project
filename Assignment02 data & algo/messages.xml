@@ -1,0 +1,353 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>13</elementCount>
+        <elementData>
+          <application.model.Message>
+            <user>
+              <email>adenby40@gmail.com</email>
+              <userName>adenby40</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>22</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>AlexDenby</password>
+              <mailingLists class="sorted-set">
+                <string>Mobile Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>I love Mobile Gaming</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>Low</priority>
+            <mailingList>Mobile Gaming</mailingList>
+            <messageBody>Mobile Gaming is so fun!</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>adenby40@gmail.com</email>
+              <userName>adenby40</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>22</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>AlexDenby</password>
+              <mailingLists class="sorted-set">
+                <string>Mobile Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>Fun Mobile Games?</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>Medium</priority>
+            <mailingList>Mobile Gaming</mailingList>
+            <messageBody>Does anyone know any games like Candy Crush?</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>adenby40@gmail.com</email>
+              <userName>adenby40</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>22</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>AlexDenby</password>
+              <mailingLists class="sorted-set">
+                <string>Mobile Gaming</string>
+                <string>Pc Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>PC gaming is very cool</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>Low</priority>
+            <mailingList>Pc Gaming</mailingList>
+            <messageBody>Pc Gaming is very cool but can be expensive!</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>adenby40@gmail.com</email>
+              <userName>adenby40</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>22</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>AlexDenby</password>
+              <mailingLists class="sorted-set">
+                <string>Mobile Gaming</string>
+                <string>Pc Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>Hello</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>Low</priority>
+            <mailingList>Pc Gaming</mailingList>
+            <messageBody>Hey my name is Alex</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>adenby40@gmail.com</email>
+              <userName>adenby40</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>22</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>AlexDenby</password>
+              <mailingLists class="sorted-set">
+                <string>Mobile Gaming</string>
+                <string>Pc Gaming</string>
+                <string>Xbox Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>Do you have an Xbox?</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>High</priority>
+            <mailingList>Xbox Gaming</mailingList>
+            <messageBody>Owning an Xbox is a must for being a part of this mailing list</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>j@gmail.com</email>
+              <userName>Jack123</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>18</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>Jack1234</password>
+              <mailingLists class="sorted-set">
+                <string>Board Games</string>
+                <string>Xbox Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>New Xbox Game!</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>Low</priority>
+            <mailingList>Xbox Gaming</mailingList>
+            <messageBody>CyberPunk 2077 came out on the 10th of December</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>j@gmail.com</email>
+              <userName>Jack123</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>18</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>Jack1234</password>
+              <mailingLists class="sorted-set">
+                <string>Board Games</string>
+                <string>Xbox Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>New Xbox wont turn on!</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>High</priority>
+            <mailingList>Xbox Gaming</mailingList>
+            <messageBody>Can anyone help me my Xbox isnt turning on!</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>Kali@gmail.com</email>
+              <userName>Kali</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>22</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>Kali1234</password>
+              <mailingLists class="sorted-set">
+                <string>Board Games</string>
+                <string>Pc Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>Your Favourite Games!</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>Low</priority>
+            <mailingList>Board Games</mailingList>
+            <messageBody>I want to know your favourite games</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user reference="../../application.model.Message[8]/user"/>
+            <messageTitle>Your Favourite Games!</messageTitle>
+            <dateTime reference="../../application.model.Message[8]/dateTime"/>
+            <priority>Low</priority>
+            <mailingList>Pc Gaming</mailingList>
+            <messageBody>I want to know your favourite games</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>m@gmail.com</email>
+              <userName>Michael</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2020</int>
+                <byte>12</byte>
+                <byte>22</byte>
+              </signUpDate>
+              <lastPost>2020-12-22</lastPost>
+              <password>Michael</password>
+              <mailingLists class="sorted-set">
+                <string>Xbox Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>Any tips for new players?</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </dateTime>
+            <priority>Low</priority>
+            <mailingList>Xbox Gaming</mailingList>
+            <messageBody>I want to know more about gaming</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>h@gmail.com</email>
+              <userName>Haryy1</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2021</int>
+                <byte>1</byte>
+                <byte>7</byte>
+              </signUpDate>
+              <lastPost>2021-01-07</lastPost>
+              <password>Harry123</password>
+              <mailingLists class="sorted-set">
+                <string>Board Games</string>
+                <string>Mobile Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>Hello!</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2021</int>
+              <byte>1</byte>
+              <byte>7</byte>
+            </dateTime>
+            <priority>Medium</priority>
+            <mailingList>Mobile Gaming</mailingList>
+            <messageBody>Hello there</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user>
+              <email>h@gmail.com</email>
+              <userName>Haryy1</userName>
+              <isAdmin>false</isAdmin>
+              <signUpDate resolves-to="java.time.Ser">
+                <byte>3</byte>
+                <int>2021</int>
+                <byte>1</byte>
+                <byte>7</byte>
+              </signUpDate>
+              <lastPost>2021-01-07</lastPost>
+              <password>Harry123</password>
+              <mailingLists class="sorted-set">
+                <string>Board Games</string>
+                <string>Mobile Gaming</string>
+              </mailingLists>
+            </user>
+            <messageTitle>Hello!</messageTitle>
+            <dateTime resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2021</int>
+              <byte>1</byte>
+              <byte>7</byte>
+            </dateTime>
+            <priority>Medium</priority>
+            <mailingList>Board Games</mailingList>
+            <messageBody>Hello there</messageBody>
+          </application.model.Message>
+          <application.model.Message>
+            <user reference="../../application.model.Message[12]/user"/>
+            <messageTitle>Hello!</messageTitle>
+            <dateTime reference="../../application.model.Message[12]/dateTime"/>
+            <priority>Medium</priority>
+            <mailingList>Mobile Gaming</mailingList>
+            <messageBody>Hello there</messageBody>
+          </application.model.Message>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>

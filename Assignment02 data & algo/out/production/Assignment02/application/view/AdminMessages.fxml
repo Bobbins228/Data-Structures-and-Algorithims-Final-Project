@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1400.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.AdminController">
+   <children>
+      <TableView fx:id="myTable" editable="true" layoutY="182.0" prefHeight="402.0" prefWidth="1400.0">
+         <columns>
+            <TableColumn fx:id="txtTitle" prefWidth="163.0" text="Title" />
+            <TableColumn fx:id="txtMessageBody" prefWidth="398.0" text="Message" />
+            <TableColumn fx:id="txtSender" prefWidth="236.0" text="Sender" />
+            <TableColumn fx:id="txtDate" minWidth="0.0" prefWidth="175.0" text="Date" />
+            <TableColumn fx:id="txtPriority" minWidth="5.0" prefWidth="151.0" text="Priority" />
+            <TableColumn fx:id="txtMailList" prefWidth="276.0" text="Mailing List" />
+         </columns>
+      </TableView>
+      <ChoiceBox fx:id="choiceMailList" layoutX="167.0" layoutY="134.0" prefWidth="150.0" />
+      <Label layoutX="32.0" layoutY="135.0" text="Choose Mailing List">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Button layoutX="37.0" layoutY="27.0" mnemonicParsing="false" onAction="#handleGoBack" prefHeight="56.0" prefWidth="110.0" text="Go Back">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="346.0" layoutY="131.0" mnemonicParsing="false" onAction="#handleReadButton" text="Read Messages">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="1150.0" layoutY="130.0" mnemonicParsing="false" onAction="#handleDeleteMessages" text="Delete Message">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <TextArea fx:id="feedback" layoutY="652.0" prefHeight="148.0" prefWidth="1400.0" />
+      <Label layoutX="924.0" layoutY="135.0" text="Select a message and press delete">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="filterField" layoutX="649.0" layoutY="134.0" prefHeight="25.0" prefWidth="187.0" />
+      <Label layoutX="545.0" layoutY="129.0" text="Search:">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="529.0" layoutY="29.0" text="Admin Message Page">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,54 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>4</elementCount>
+        <elementData>
+          <application.model.MailingList>
+            <name>Pc Gaming</name>
+            <userNames>
+              <string>Jack123</string>
+              <string>JohnMan</string>
+            </userNames>
+            <description>A Mailing List about PC Gaming</description>
+          </application.model.MailingList>
+          <application.model.MailingList>
+            <name>Playstation Gaming</name>
+            <userNames>
+              <string>Jack123</string>
+              <string>Michael</string>
+            </userNames>
+            <description>PLACEHOLDER</description>
+          </application.model.MailingList>
+          <application.model.MailingList>
+            <name>Xbox Gaming</name>
+            <userNames>
+              <string>JohnMan</string>
+              <string>Jack123</string>
+              <string>Michael</string>
+              <string>Gavin</string>
+            </userNames>
+            <description>A MailingList for Xbox Gaming</description>
+          </application.model.MailingList>
+          <application.model.MailingList>
+            <name>Board Games</name>
+            <userNames>
+              <string>Jack123</string>
+              <string>Kali</string>
+              <string>Haryy1</string>
+            </userNames>
+            <description>A Mailing List about Board Games</description>
+          </application.model.MailingList>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>

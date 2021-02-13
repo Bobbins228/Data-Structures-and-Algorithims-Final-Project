@@ -1,0 +1,139 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>8</elementCount>
+        <elementData>
+          <application.model.User>
+            <email>bob@gmail.com</email>
+            <userName>Bobbins2</userName>
+            <isAdmin>true</isAdmin>
+            <signUpDate resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>18</byte>
+            </signUpDate>
+            <password>Bobbins223</password>
+          </application.model.User>
+          <application.model.User>
+            <email>j@gmail.com</email>
+            <userName>Jack123</userName>
+            <isAdmin>false</isAdmin>
+            <signUpDate resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>18</byte>
+            </signUpDate>
+            <lastPost>2020-12-22</lastPost>
+            <password>Jack1234</password>
+            <mailingLists class="sorted-set">
+              <string>Board Games</string>
+              <string>Xbox Gaming</string>
+            </mailingLists>
+          </application.model.User>
+          <application.model.User>
+            <email>jman@gmail.com</email>
+            <userName>JohnMan</userName>
+            <isAdmin>false</isAdmin>
+            <signUpDate resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>20</byte>
+            </signUpDate>
+            <lastPost>No posts yet</lastPost>
+            <password>JMan1234</password>
+            <mailingLists class="sorted-set"/>
+          </application.model.User>
+          <application.model.User>
+            <email>adenby40@gmail.com</email>
+            <userName>adenby40</userName>
+            <isAdmin>false</isAdmin>
+            <signUpDate resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </signUpDate>
+            <lastPost>2020-12-22</lastPost>
+            <password>AlexDenby</password>
+            <mailingLists class="sorted-set"/>
+          </application.model.User>
+          <application.model.User>
+            <email>Kali@gmail.com</email>
+            <userName>Kali</userName>
+            <isAdmin>false</isAdmin>
+            <signUpDate resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </signUpDate>
+            <lastPost>2020-12-22</lastPost>
+            <password>Kali1234</password>
+            <mailingLists class="sorted-set">
+              <string>Board Games</string>
+              <string>Pc Gaming</string>
+            </mailingLists>
+          </application.model.User>
+          <application.model.User>
+            <email>m@gmail.com</email>
+            <userName>Michael</userName>
+            <isAdmin>false</isAdmin>
+            <signUpDate resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2020</int>
+              <byte>12</byte>
+              <byte>22</byte>
+            </signUpDate>
+            <lastPost>2020-12-22</lastPost>
+            <password>Michael</password>
+            <mailingLists class="sorted-set">
+              <string>Pc Gaming</string>
+              <string>Playstation Gaming</string>
+              <string>Xbox Gaming</string>
+            </mailingLists>
+          </application.model.User>
+          <application.model.User>
+            <email>g01@gmail.com</email>
+            <userName>Gavin</userName>
+            <isAdmin>false</isAdmin>
+            <signUpDate resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2021</int>
+              <byte>1</byte>
+              <byte>7</byte>
+            </signUpDate>
+            <lastPost>No posts yet</lastPost>
+            <password>Gavin01</password>
+            <mailingLists class="sorted-set">
+              <string>Xbox Gaming</string>
+            </mailingLists>
+          </application.model.User>
+          <application.model.User>
+            <email>h@gmail.com</email>
+            <userName>Haryy1</userName>
+            <isAdmin>false</isAdmin>
+            <signUpDate resolves-to="java.time.Ser">
+              <byte>3</byte>
+              <int>2021</int>
+              <byte>1</byte>
+              <byte>7</byte>
+            </signUpDate>
+            <lastPost>2021-01-07</lastPost>
+            <password>Harry123</password>
+            <mailingLists class="sorted-set">
+              <string>Board Games</string>
+            </mailingLists>
+          </application.model.User>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>
